@@ -89,8 +89,6 @@
 {
 	cell.backgroundColor = WK_COLOR_RED_TAG_COLOR;
 	cell.tagLabel.textColor = [UIColor whiteColor];
-	cell.layer.borderWidth = 1;
-	cell.layer.borderColor = WK_COLOR_DARK_RED_TAG_COLOR.CGColor;
 }
 
 #pragma mark - Helpers
